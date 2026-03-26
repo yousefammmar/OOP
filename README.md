@@ -12,7 +12,7 @@ Princess Sumaya University for Technology<br>
 
 ## Quiz Solutions
 - [OOP Quiz 1 Solution (Google Drive)](https://drive.google.com/file/d/18LVy5ezrBK5PQQXPb3DN0KmpCmXptUMu/view?usp=sharing)  
-- [OOP Quiz 1 Solution (YouTube Explanation)](https://youtu.be/alhYkrjBTWI?si=3NBoKtoy4qWpn9Vk)  
+- [OOP Quiz 1 Solution (YouTube Explanation)](https://youtu.be/alhYkrjBTWI?si=3NBoKtoy4qWpn9Vk)  [Yousef Odeh]
 
 ## Detailed Links
 - [**C++ Basics**](Study%20Guide/C++_Basics.md)  
