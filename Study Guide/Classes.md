@@ -2,8 +2,8 @@
 We advise you to study in the following order:
 
 1. Begin by Studying these files thoroughly prepared by ***Ms.Ayat Droos***:
-   * [Classes_1](https://drive.google.com/file/d/1HHpBwAlGGg_7Ig45dDCmrMnaPJHBWT-U/view?usp=sharing)
-   * [Classes_2](https://drive.google.com/file/d/1MamAEZ2ZJlEu-1FLJvHZYA4S3G3__neA/view?usp=sharing)
+   * [Classes_Intro_1](https://drive.google.com/file/d/1HHpBwAlGGg_7Ig45dDCmrMnaPJHBWT-U/view?usp=sharing)
+   * [Classes_Intro_2](https://drive.google.com/file/d/1MamAEZ2ZJlEu-1FLJvHZYA4S3G3__neA/view?usp=sharing)
 
 3. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
    * [Classes_1](https://www.youtube.com/watch?v=Fq3pekWUI3k&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=6)
