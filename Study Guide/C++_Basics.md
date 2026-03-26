@@ -4,7 +4,7 @@ We advise you to study in the following order:
 1. Begin by Studying these files thoroughly prepared by ***Ms.Ayat Droos***:  [Basics_1](https://drive.google.com/file/d/1Y8PJkWnis6NyZyxWVVhenK0Q7fwx1yA2/view?usp=sharing), [Basics_2](https://drive.google.com/file/d/1Y8PJkWnis6NyZyxWVVhenK0Q7fwx1yA2/view?usp=sharing)
 
 2. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
-   * [introduction to C++.](https://www.youtube.com/watch?v=-2lJ6tO9eK8&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=1)
+   * [Introduction to C++.](https://www.youtube.com/watch?v=-2lJ6tO9eK8&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=1)
    * [Functions.](https://www.youtube.com/watch?v=57iSuILXRec&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=2)
    * [Arrays.](https://www.youtube.com/watch?v=B-yZm2wNW3k&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=3)
    * [Pointers_1](https://www.youtube.com/watch?v=Q6oSeZPjg0M&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=4),  [Pointers_2](https://www.youtube.com/watch?v=UsJVViySFQ4&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=5)
