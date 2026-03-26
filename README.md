@@ -11,10 +11,14 @@ Princess Sumaya University for Technology<br>
 - [Previous Labs](https://drive.google.com/drive/folders/1pglAkv7Seib3L2HYHUvhogdKQ3L5GWRI)  
 
 ## Quiz Solutions
-- [OOP Quiz 1 Solution (Google Drive)](https://drive.google.com/file/d/18LVy5ezrBK5PQQXPb3DN0KmpCmXptUMu/view?usp=sharing)  
-- [OOP Quiz 1 Solution (YouTube Explanation)](https://youtu.be/alhYkrjBTWI?si=3NBoKtoy4qWpn9Vk)  [Yousef Odeh]
-- [OOP Quiz 2 Solution (Google Drive)]([https://drive.google.com/file/d/18LVy5ezrBK5PQQXPb3DN0KmpCmXptUMu/view?usp=sharing](https://drive.google.com/file/d/1sfoG7EZdYhK9idYCkzTleljmQ0gJ3QCV/view?usp=sharing))  
-- [OOP Quiz 2 Solution (YouTube Explanation)]([https://youtu.be/alhYkrjBTWI?si=3NBoKtoy4qWpn9Vk](https://youtu.be/yT3sY8VrOl0?si=xH-6m5qUx1SsRopn))  [Yousef Odeh]
+
+### Quiz 1
+- [Google Drive Solution](https://drive.google.com/file/d/18LVy5ezrBK5PQQXPb3DN0KmpCmXptUMu/view?usp=sharing)  
+- [YouTube Explanation – Yousef Odeh](https://youtu.be/alhYkrjBTWI?si=3NBoKtoy4qWpn9Vk)  
+
+### Quiz 2
+- [Google Drive Solution](https://drive.google.com/file/d/1sfoG7EZdYhK9idYCkzTleljmQ0gJ3QCV/view?usp=sharing)  
+- [YouTube Explanation – Yousef Odeh](https://youtu.be/yT3sY8VrOl0?si=xH-6m5qUx1SsRopn)  
 
 ## Detailed Links
 - [**C++ Basics**](Study%20Guide/C++_Basics.md)  
