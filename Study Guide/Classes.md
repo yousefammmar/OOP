@@ -4,13 +4,15 @@ We advise you to study in the following order:
 1. Begin by Studying these files thoroughly prepared by ***Ms.Ayat Droos***:  [Classes_1](https://drive.google.com/file/d/1HHpBwAlGGg_7Ig45dDCmrMnaPJHBWT-U/view?usp=sharing), [Classes_2](https://drive.google.com/file/d/1MamAEZ2ZJlEu-1FLJvHZYA4S3G3__neA/view?usp=sharing)
 
 2. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
-   * [Introduction to C++.](https://www.youtube.com/watch?v=-2lJ6tO9eK8&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=1)
-   * [Functions.](https://www.youtube.com/watch?v=57iSuILXRec&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=2)
-   * [Arrays.](https://www.youtube.com/watch?v=B-yZm2wNW3k&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=3)
-   * [Pointers_1](https://www.youtube.com/watch?v=Q6oSeZPjg0M&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=4),  [Pointers_2](https://www.youtube.com/watch?v=UsJVViySFQ4&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=5)
+   * [Classes_1](https://www.youtube.com/watch?v=Fq3pekWUI3k&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=6)
+   * [Classes_2](https://www.youtube.com/watch?v=dH2L4aK-HUM&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=7)
 
 4. Practice using previous quizzes Regarding C++_Basics:
-   * [Quiz1_2025](https://api.psutarchive.com/assets/a443282b-d427-4f0e-95c2-e1273d916aeb)
+   * [Quiz1_2022](https://api.psutarchive.com/assets/51acfd47-69cb-49b2-9d22-960799e6d994)
+   * [Quiz1_2024](https://drive.google.com/file/d/1E3QBdOgDINCMC_PR1gcQFvxy1TlYwl8Q/view?usp=sharing)
+   * [Quiz2_2025__2_sec4](https://drive.google.com/file/d/1Wau2u9MF4Q52XHe0IkOV32IZQ2EyCK5R/view?usp=sharing)
+   * [Quiz2_2025__2_sec5](https://drive.google.com/file/d/1D4GyT6Ir5EPchYfps5YdAoo67ssC02_L/view?usp=sharing)
+   * [Quiz2_2025__2_sec9](https://drive.google.com/file/d/10nM2TiW5VBTmIrQqD9QZil3vD6PPv1XF/view?usp=sharing)
      
 5. Practice using previous Labs regarding C++_Basics:
   * [LAB1_2025_2](https://drive.google.com/file/d/1Jj9RqEBunCS_k1OXpxE42MAUlsnlNWsX/view?usp=sharing)
