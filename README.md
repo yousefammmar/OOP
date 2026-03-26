@@ -8,6 +8,6 @@ Princess Sumaya University for Technology<br>
  ->[Previous Exams](https://psutarchive.com/courses/11206?tab=exam)<- <br>
  ->[Previous Quizzes](https://drive.google.com/drive/folders/1o8Ae0gTwBTSMBRKtLVBGLt8qNM6WjupF)<- <br>
  ### Detailed Links:
- * [***C++ Basics.***](C++_Basics.md) 
- * [***Class_Basics***](Class_Basics.md)
+ * [***C++ Basics.***](Study%20Guide/C++_Basics.md) 
+ * [***Class_Basics***](Study%20Guide/Class_Basics.md)
  
