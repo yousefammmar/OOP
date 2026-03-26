@@ -1,4 +1,4 @@
-princess sumaya university for technology<br>
+Princess Sumaya University for Technology<br>
 ***Object Oriented Programming***
 
 # Course Material
