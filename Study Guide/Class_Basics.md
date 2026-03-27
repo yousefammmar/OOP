@@ -8,6 +8,9 @@ We advise you to study in the following order:
 3. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
    * [Classes_1](https://www.youtube.com/watch?v=Fq3pekWUI3k&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=6)
    * [Classes_2](https://www.youtube.com/watch?v=dH2L4aK-HUM&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=7)
+   * [Constructors](https://www.youtube.com/watch?v=xV8odFvC1Cc&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=9)
+   * [Copy_Constuctor](https://www.youtube.com/watch?v=JQz9qgSnDow&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=10)
+   * [MoreOnConstructors](https://www.youtube.com/watch?v=P7wI9rA4Ps0&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=11)
 
 4. Practice using previous quizzes regarding **Class Basics**:
    * [Quiz1_2022](https://api.psutarchive.com/assets/51acfd47-69cb-49b2-9d22-960799e6d994)
