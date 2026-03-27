@@ -15,8 +15,10 @@ We advise you to study in the following order:
    * [Quiz1_2025](https://api.psutarchive.com/assets/a443282b-d427-4f0e-95c2-e1273d916aeb)
      
 5. Practice using previous Labs regarding C++_Basics:
-   * [LAB1_2025_2](https://drive.google.com/file/d/1Jj9RqEBunCS_k1OXpxE42MAUlsnlNWsX/view?usp=sharing)
-   * [LAB2_2025_2](https://drive.google.com/file/d/15dtBh15WSfpGcgynp7UsZLtRbE6chCvy/view?usp=sharing)
+   * [LAB1_2025_2](https://drive.google.com/drive/folders/1Q4LoUGefScYg-avjq8sXxh0hr7w4wSRe)
+   * [LAB1_2024_3](https://drive.google.com/drive/folders/1_uCxCKr0rHzvwsqNxXPcD8rrCkCkufPS)
+   * [LAB2_2025_2](https://drive.google.com/drive/folders/1jdW9sdU7ZxhTH8k94JyWxFCN-S2siZxv)
+   * [LAB2_2024_3](https://drive.google.com/drive/folders/1wJlgMJh1i9XmTcH111BGHmv7hSSegn4g)
     
 If you like to read from Notes, you can visit this [notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from page 0 to page 9 prepared by Dana AL-taher.
   
