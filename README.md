@@ -20,9 +20,6 @@ Princess Sumaya University for Technology<br>
 - [Google Drive Solution](https://drive.google.com/file/d/1sfoG7EZdYhK9idYCkzTleljmQ0gJ3QCV/view?usp=sharing)  
 - [YouTube Explanation – Yousef Odeh](https://youtu.be/yT3sY8VrOl0?si=xH-6m5qUx1SsRopn)  
 
-## Lab Solutions
-- [All Labs (Google Drive Folder)](https://drive.google.com/drive/folders/1d2ZVi63Rmkd-Ha7E7wM1CRsjesNXDfSk?usp=drive_link)  
-
 ## Detailed Links
 - [**C++ Basics**](Study%20Guide/C++_Basics.md)  
 - [**Class Basics**](Study%20Guide/Class_Basics.md)
