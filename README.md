@@ -29,5 +29,5 @@ Princess Sumaya University for Technology<br>
 - [**Constructrs 2**](Constructors2)
 - [**Constructrs 3**](Constructors3)
 ## Destructors
-- [**Destuctors**](Destructor1)
+- [**Destructors**](Destructors)
 
