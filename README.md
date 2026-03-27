@@ -14,6 +14,6 @@ Princess Sumaya University for Technology<br>
 - [**Class Basics**](Study%20Guide/Class_Basics.md)
 - [**Consts and Statics**](Study%20Guide/Const&Static.md)
 ## Revision
-- [**Revision 1**]
+- [**Revision 1**](Revision1.md)
 ## Classes
 ## Setters and Getters
