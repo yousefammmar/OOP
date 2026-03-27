@@ -13,3 +13,7 @@ Princess Sumaya University for Technology<br>
 - [**C++ Basics**](Study%20Guide/C++_Basics.md)  
 - [**Class Basics**](Study%20Guide/Class_Basics.md)
 - [**Consts and Statics**](Study%20Guide/Const&Static.md)
+## Revision
+- [**Revision 1**]
+## Classes
+## Setters and Getters
