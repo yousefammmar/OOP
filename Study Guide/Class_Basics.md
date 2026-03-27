@@ -24,7 +24,7 @@ We advise you to study in the following order:
    * [Lab3_2024_3](https://drive.google.com/drive/folders/1IeaIJtPU9EvTMS9xcX5sBXyuM2DVnshH)
 
 
-
+#### Watch [this video](https://www.youtube.com/watch?v=qhHN7Cx73rI&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=12) on seperation of files which you will need in the OOP and OOP Lab submissions and solutions prepared by ***Dr.Ibrahim Albluwi***.
     
-If you like to read from Notes, you can visit this [notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 10 to page 19** prepared by Dana AL-taher.
+*If you like to read from Notes, you can visit this [notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 10 to page 19** prepared by Dana AL-taher.*
   
