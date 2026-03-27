@@ -14,9 +14,6 @@ Princess Sumaya University for Technology<br>
 - [**Class Basics**](Study%20Guide/Class_Basics.md)
 - [**Consts and Statics**](Study%20Guide/Const&Static.md)
 # Course Material
-
-## OOP Material
-
 ### Revision
 - [Revision 1](Revision1) | [Revision 2](Revision2) | [Revision 3](Revision3) | [Revision 4](Revision4)
 
