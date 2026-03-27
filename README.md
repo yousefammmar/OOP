@@ -23,3 +23,4 @@ Princess Sumaya University for Technology<br>
 ## Detailed Links
 - [**C++ Basics**](Study%20Guide/C++_Basics.md)  
 - [**Class Basics**](Study%20Guide/Class_Basics.md)
+- [**Consts and Statics**](Study%20Guide/Const&Static.md)
