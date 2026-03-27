@@ -22,6 +22,9 @@ We advise you to study in the following order:
 5. Practice using previous Labs regarding **Class Basics**:
    * [LAB3_2025_2](https://drive.google.com/drive/folders/1VrVwgwMhSjxsKEUo6AY9zunkAXqjvmrK)
    * [Lab3_2024_3](https://drive.google.com/drive/folders/1IeaIJtPU9EvTMS9xcX5sBXyuM2DVnshH)
+
+
+
     
-If you like to read from Notes, you can visit this [notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 10 to page 13** prepared by Dana AL-taher.
+If you like to read from Notes, you can visit this [notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 10 to page 19** prepared by Dana AL-taher.
   
