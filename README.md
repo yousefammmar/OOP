@@ -1,7 +1,6 @@
 Princess Sumaya University for Technology<br>
 ***Object Oriented Programming - CS11253***
 
-# Course Material
 
 ## Quick Links-ExternalPages
 - [Recorded Lectures](https://www.youtube.com/playlist?list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV)  
@@ -13,7 +12,7 @@ Princess Sumaya University for Technology<br>
 - [**C++ Basics**](Study%20Guide/C++_Basics.md)  
 - [**Class Basics**](Study%20Guide/Class_Basics.md)
 - [**Consts and Statics**](Study%20Guide/Const&Static.md)
-# Course Material
+## Course Material
 ### Revision
 - [Revision 1](Revision1) | [Revision 2](Revision2) | [Revision 3](Revision3) | [Revision 4](Revision4)
 
