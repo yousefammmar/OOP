@@ -12,6 +12,8 @@ We advise you to study in the following order:
    * [Copy_Constuctor](https://www.youtube.com/watch?v=JQz9qgSnDow&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=10)
    * [MoreOnConstructors](https://www.youtube.com/watch?v=P7wI9rA4Ps0&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=11)
 
+
+#### Watch [this video](https://www.youtube.com/watch?v=qhHN7Cx73rI&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=12) on seperation of files which you will need in the OOP and OOP Lab submissions and solutions prepared by ***Dr.Ibrahim Albluwi***.
 4. Practice using previous quizzes regarding **Class Basics**:
    * [Quiz1_2022](https://api.psutarchive.com/assets/51acfd47-69cb-49b2-9d22-960799e6d994)
    * [Quiz1_2024](https://drive.google.com/file/d/1E3QBdOgDINCMC_PR1gcQFvxy1TlYwl8Q/view?usp=sharing)
@@ -27,8 +29,6 @@ We advise you to study in the following order:
    * [LAB5_2025_2](https://drive.google.com/drive/folders/1hVWJ6fbxkLx7Yt-cEg855BobS8ARXhfU)
    * [LAB5_2024_3](https://drive.google.com/drive/folders/1cZX3lWXaQA-twjMnWcktQuvHQTS1Bij_)
 
-
-#### Watch [this video](https://www.youtube.com/watch?v=qhHN7Cx73rI&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=12) on seperation of files which you will need in the OOP and OOP Lab submissions and solutions prepared by ***Dr.Ibrahim Albluwi***.
     
 *If you like to read from handwritten notes, you can visit this [notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 10 to page 19** prepared by Dana AL-taher.*
   
