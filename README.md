@@ -14,30 +14,20 @@ Princess Sumaya University for Technology<br>
 - [**Class Basics**](Study%20Guide/Class_Basics.md)
 - [**Consts and Statics**](Study%20Guide/Const&Static.md)
 ## Detailed Links
+- Revision: [1](code/Revision1) | [2](code/Revision2) | [3](code/Revision3) | [4](code/Revision4)
 
-- Revision
-  - [Revision 1](code/Revision1) | [Revision 2](code/Revision2) | [Revision 3](code/Revision3) | [Revision 4](code/Revision4)
+- Classes: [1](code/Classes1) | [2](code/Classes2)
 
-- Classes
-  - [Classes 1](code/Classes1) | [Classes 2](code/Classes2)
+- Setters and Getters: [1](code/SettersandGetters1) | [2](code/SettersandGetters2)
 
-- Setters and Getters
-  - [Setters and Getters 1](code/SettersandGetters1) | [Setters and Getters 2](code/SettersandGetters2)
+- Constructors: [1](code/Constructors1) | [2](code/Constructors2) | [3](code/Constructors3)
 
-- Constructors
-  - [Constructors 1](code/Constructors1) | [Constructors 2](code/Constructors2) | [Constructors 3](code/Constructors3)
+- Destructors: [link](code/Destructors)
 
-- Destructors
-  - [Destructors](code/Destructors)
+- Separation: [h](code/Seperation.h) | [cpp](code/Seperation.cpp) | [driver](code/Driver.cpp)
 
-- Separation
-  - [Separation.h](code/Seperation.h) | [Separation.cpp](code/Seperation.cpp) | [Driver.cpp](code/Driver.cpp)
+- Member Functions: [link](code/MemberFunctions)
 
-- Member Functions
-  - [Member Functions](code/MemberFunctions)
+- Objects Array: [1](code/ObjectsArray1) | [2](code/ObjectsArray2)
 
-- Objects Array
-  - [Objects Array 1](code/ObjectsArray1) | [Objects Array 2](code/ObjectsArray2)
-
-- Constants
-  - [Constants 1](code/Constants1) | [Constants 2](code/Constants2)
+- Constants: [1](code/Constants1) | [2](code/Constants2)
