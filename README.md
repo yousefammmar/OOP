@@ -15,8 +15,8 @@ Princess Sumaya University for Technology<br>
 - [**Consts and Statics**](Study%20Guide/Const&Static.md)
 ## Detailed Links
 
-### Revision
-- [Revision 1](code/Revision1) | [Revision 2](code/Revision2) | [Revision 3](code/Revision3) | [Revision 4](code/Revision4)
+- Revision
+-- [Revision 1](code/Revision1) | [Revision 2](code/Revision2) | [Revision 3](code/Revision3) | [Revision 4](code/Revision4)
 
 ### Classes
 - [Classes 1](code/Classes1) | [Classes 2](code/Classes2)
