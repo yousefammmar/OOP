@@ -15,5 +15,13 @@ Princess Sumaya University for Technology<br>
 - [**Consts and Statics**](Study%20Guide/Const&Static.md)
 ## Revision
 - [**Revision 1**](Revision1)
+- [**Revision 2**](Revision2)
+- [**Revision 3**](Revision3)
+- [**Revision 4**](Revision4)
 ## Classes
+- [**Classes 1**](Classes1)
+- [**Classes 2**](Classes2)
 ## Setters and Getters
+- [**Setters and Getters 1**](SettersandGetters1)
+- [**Setters and Getters 2**](SettersandGetters2)
+- 
