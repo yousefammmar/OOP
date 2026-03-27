@@ -22,6 +22,10 @@ We advise you to study in the following order:
 5. Practice using previous Labs regarding **Class Basics**:
    * [LAB3_2025_2](https://drive.google.com/drive/folders/1VrVwgwMhSjxsKEUo6AY9zunkAXqjvmrK)
    * [Lab3_2024_3](https://drive.google.com/drive/folders/1IeaIJtPU9EvTMS9xcX5sBXyuM2DVnshH)
+   * [LAB4_2025_2](https://drive.google.com/drive/folders/1aC4kFTitOamYI8uI5zviZdQnM4z8hZVv)
+   * [LAB4_2024_3](https://drive.google.com/drive/folders/154XF7lAs2mscHpIV5Y9X8QAm-x7CMsi3)
+   * [LAB5_2025_2](https://drive.google.com/drive/folders/1hVWJ6fbxkLx7Yt-cEg855BobS8ARXhfU)
+   * [LAB5_2024_3](https://drive.google.com/drive/folders/1cZX3lWXaQA-twjMnWcktQuvHQTS1Bij_)
 
 
 #### Watch [this video](https://www.youtube.com/watch?v=qhHN7Cx73rI&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=12) on seperation of files which you will need in the OOP and OOP Lab submissions and solutions prepared by ***Dr.Ibrahim Albluwi***.
