@@ -1,7 +1,7 @@
 # Const And Static Variables,Functions, Objects
 We advise you to study in the following order:
 
-1. Begin by Studying this file thoroughly prepared by ***Ms.Ayat Droos***:
+1. Begin with studying this file thoroughly prepared by ***Ms.Ayat Droos***:
    -> [Constant and static](https://drive.google.com/drive/folders/1fTKKSbcEAyym_ivfNNB-kxm5-PWHSjSm)<- 
 
 3. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
