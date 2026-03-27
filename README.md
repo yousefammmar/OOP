@@ -30,7 +30,9 @@ Princess Sumaya University for Technology<br>
 - [**Constructors 3**](Constructors3)
 ## Destructors
 - [**Destructors**](Destructors)
-## Seperation
-- [**Seperation.h**](Seperation.h)
-- [**Seperation.cpp**](Seperation.cpp)
+## Separation
+- [**Separation.h**](Seperation.h)
+- [**Separation.cpp**](Seperation.cpp)
 - [**Driver.cpp**](Driver.cpp)
+## Member Functions
+- [**Member Functions**](MemberFunctions)
