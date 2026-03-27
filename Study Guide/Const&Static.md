@@ -1,13 +1,13 @@
 # Const And Static Variables,Functions, Objects
 We advise you to study in the following order:
 
-1. Begin by Studying these files thoroughly prepared by ***Ms.Ayat Droos***:
-   * [Classes_Intro_1](https://drive.google.com/file/d/1HHpBwAlGGg_7Ig45dDCmrMnaPJHBWT-U/view?usp=sharing)
-   * [Classes_Intro_2](https://drive.google.com/file/d/1MamAEZ2ZJlEu-1FLJvHZYA4S3G3__neA/view?usp=sharing)
+1. Begin by Studying this file thoroughly prepared by ***Ms.Ayat Droos***:
+   -> [Constant and static](https://drive.google.com/drive/folders/1fTKKSbcEAyym_ivfNNB-kxm5-PWHSjSm)<- 
 
 3. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
-   * [Classes_1](https://www.youtube.com/watch?v=Fq3pekWUI3k&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=6)
-   * [Classes_2](https://www.youtube.com/watch?v=dH2L4aK-HUM&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=7)
+   * [Constants](www.youtube.com/watch?v=Y1E4j-qPYG0&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=16)
+   * [Statics](https://www.youtube.com/watch?v=gVIuCrbm-2Q&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=17)
+   * [MoreOnStatic](https://www.youtube.com/watch?v=pKllmpeIF-0&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=18)
 
 4. Practice using previous quizzes regarding **Class Basics**:
    * [Quiz1_2022](https://api.psutarchive.com/assets/51acfd47-69cb-49b2-9d22-960799e6d994)
