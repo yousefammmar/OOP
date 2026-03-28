@@ -14,7 +14,7 @@ using namespace std;
 //
 //
 //	//member function
-//	void printStudentInfo()
+ void printStudentInfo()
 //	{
 //		cout << id_ << endl << name_ << endl << gpa_ << endl << address_ << endl << endl;
 //	}
