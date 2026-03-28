@@ -9,11 +9,15 @@ Princess Sumaya University for Technology<br>
 - [Past Exams](https://psutarchive.com/courses/11206?tab=exam)  
 - [Past Quizzes](https://drive.google.com/drive/folders/1o8Ae0gTwBTSMBRKtLVBGLt8qNM6WjupF)  
 - [Past Labs](https://drive.google.com/drive/folders/1pglAkv7Seib3L2HYHUvhogdKQ3L5GWRI?usp=sharing)  
+- [Explanations](https://github.com/yousefammmar/OOP/blob/main/Explanations.md)  
+
 ## Navigation:
 - [**C++ Basics**](Study%20Guide/C++_Basics.md)  
 - [**Class Basics**](Study%20Guide/Class_Basics.md)
 - [**Consts and Statics**](Study%20Guide/Const&Static.md)
+
 ## Detailed Links
+
 - **Revision:** [1](code/Revision1) | [2](code/Revision2) | [3](code/Revision3) | [4](code/Revision4)
 
 - **Classes:** [1](code/Classes1) | [2](code/Classes2)
