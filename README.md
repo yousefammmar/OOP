@@ -9,7 +9,7 @@ Princess Sumaya University for Technology<br>
 - [Past Exams](https://psutarchive.com/courses/11206?tab=exam)  
 - [Past Quizzes](https://drive.google.com/drive/folders/1o8Ae0gTwBTSMBRKtLVBGLt8qNM6WjupF)  
 - [Past Labs](https://drive.google.com/drive/folders/1pglAkv7Seib3L2HYHUvhogdKQ3L5GWRI?usp=sharing)  
-- [Quiz Explanations](https://github.com/yousefammmar/OOP/blob/main/Explanations.md)  
+- [Quiz Solutions & Explanations](https://github.com/yousefammmar/OOP/blob/main/Explanations.md)  
 
 ## Navigation:
 - [**C++ Basics**](Study%20Guide/C++_Basics.md)  
