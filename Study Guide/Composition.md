@@ -9,14 +9,13 @@ We advise you to study in the following order:
    * [Composition_2](https://www.youtube.com/watch?v=ifo3aDkOSW8&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=20)
    
 4. Check out the code examples for **Composition**:
-   * [Constants_1](code/Constants_Statics/Constants1.cpp) 
-   * [Constants_2](code/Constants_Statics/Constants2.cpp)
-4. Practice using previous quizzes regarding **Composition**:
+   
+5. Practice using previous quizzes regarding **Composition**:
    * [Quiz3_2025__2_sec4](https://drive.google.com/file/d/1QdoB_vrYq9rr2SLdlTMS3ZZhRKTPK3Ub/view?usp=sharing)
    * [Quiz3_2025__2_sec5](https://drive.google.com/file/d/1WE4W7D5-Aj9LMWakdjekzqrcy9SC3OOZ/view?usp=sharing)
    * [Quiz3_2025__2_sec9](https://drive.google.com/file/d/1WIJ15WQ4WUEtnfKnD0fJkgnTr_nbVUom/view?usp=sharing)
    
-5. Practice using previous Labs regarding **Composition**:
+6. Practice using previous Labs regarding **Composition**:
    * [LAB7_2025_2](https://drive.google.com/drive/folders/1LS9H3Xm3MKneKbHpgm6plrB01UmB9Gto)
    * [LAB7_2024_3](https://drive.google.com/drive/folders/1yzkdoOIAj_EyuuoxgSOQMWkkeKp1s-Ra)
 
