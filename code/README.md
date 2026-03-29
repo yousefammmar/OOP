@@ -11,9 +11,7 @@
 - **Destructors:** [Destructors](Destructors.cpp)
 
 - **Separation:** [Seperation_header](Seperation.h) | [Seperation_implementation](Seperation.cpp) | [Seperation_Driver](Driver.cpp)
-
-- **Member Functions:** [MemberFunctions](MemberFunctions.cpp)
-
+  
 - **Objects Array:** [ArrayOfObjects_1](ObjectsArray1.cpp) | [ArrayOfObjects_2](ObjectsArray2.cpp)
 
 - **Constants:** [1](Constants1.cpp) | [2](Constants2.cpp)
