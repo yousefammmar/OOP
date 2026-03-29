@@ -11,16 +11,16 @@ We advise you to study in the following order:
    * [Arrays.](https://www.youtube.com/watch?v=B-yZm2wNW3k&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=3)
    * [Pointers_1](https://www.youtube.com/watch?v=Q6oSeZPjg0M&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=4),  [Pointers_2](https://www.youtube.com/watch?v=UsJVViySFQ4&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=5)
    
-3. Check out the code examples for *C++_Basics:*
+3. Check out the code examples for **C++_Basics:**
    * [Revision_1](code/Revision/Revision1.cpp) 
    * [Revision_2](code/Revision/Revision2.cpp) 
    * [Revision_3](code/Revision/Revision3.cpp) 
    * [Revision_4](code/Revision/Revision4.cpp)
    
-5. Practice using previous quizzes Regarding *C++_Basics:*
+5. Practice using previous quizzes Regarding **C++_Basics:**
    * [Quiz1_2025](https://api.psutarchive.com/assets/a443282b-d427-4f0e-95c2-e1273d916aeb)
      
-6. Practice using previous Labs regarding *C++_Basics:*
+6. Practice using previous Labs regarding **C++_Basics:**
    * [LAB1_2025_2](https://drive.google.com/drive/folders/1Q4LoUGefScYg-avjq8sXxh0hr7w4wSRe)
    * [LAB1_2024_3](https://drive.google.com/drive/folders/1_uCxCKr0rHzvwsqNxXPcD8rrCkCkufPS)
    * [LAB2_2025_2](https://drive.google.com/drive/folders/1jdW9sdU7ZxhTH8k94JyWxFCN-S2siZxv)
