@@ -11,9 +11,6 @@ We advise you to study in the following order:
 4. Check out the code examples for **Composition**:
    
 5. Practice using previous quizzes regarding **Composition**:
-   * [Quiz3_2025__2_sec4](https://drive.google.com/file/d/1QdoB_vrYq9rr2SLdlTMS3ZZhRKTPK3Ub/view?usp=sharing)
-   * [Quiz3_2025__2_sec5](https://drive.google.com/file/d/1WE4W7D5-Aj9LMWakdjekzqrcy9SC3OOZ/view?usp=sharing)
-   * [Quiz3_2025__2_sec9](https://drive.google.com/file/d/1WIJ15WQ4WUEtnfKnD0fJkgnTr_nbVUom/view?usp=sharing)
    
 6. Practice using previous Labs regarding **Composition**:
    * [LAB7_2025_2](https://drive.google.com/drive/folders/1LS9H3Xm3MKneKbHpgm6plrB01UmB9Gto)
