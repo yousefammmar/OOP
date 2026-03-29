@@ -5,7 +5,7 @@ We advise you to study in the following order:
    * [Classes_Intro_1](https://drive.google.com/file/d/1HHpBwAlGGg_7Ig45dDCmrMnaPJHBWT-U/view?usp=sharing)
    * [Classes_Intro_2](https://drive.google.com/file/d/1MamAEZ2ZJlEu-1FLJvHZYA4S3G3__neA/view?usp=sharing)
 
-3. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
+2. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
    * [Classes_1](https://www.youtube.com/watch?v=Fq3pekWUI3k&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=6)
    * [Classes_2](https://www.youtube.com/watch?v=dH2L4aK-HUM&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=7)
    * [Constructors](https://www.youtube.com/watch?v=xV8odFvC1Cc&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=9)
@@ -14,6 +14,11 @@ We advise you to study in the following order:
 
 
 #### Watch [this video](https://www.youtube.com/watch?v=qhHN7Cx73rI&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=12) on seperation of files which you will need in the OOP and OOP Lab submissions and solutions prepared by ***Dr.Ibrahim Albluwi***.
+
+3. Check out the code examples for *C++_Basics:*
+   * [Classes_1](code/Classes/Classes1.cpp) 
+   * [Classes_2](code/Classes/Classes2.cpp) 
+   
 4. Practice using previous quizzes regarding **Class Basics**:
    * [Quiz1_2022](https://api.psutarchive.com/assets/51acfd47-69cb-49b2-9d22-960799e6d994)
    * [Quiz1_2024](https://drive.google.com/file/d/1E3QBdOgDINCMC_PR1gcQFvxy1TlYwl8Q/view?usp=sharing)
