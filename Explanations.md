@@ -9,6 +9,6 @@
 - [YouTube Explanation – Yousef Odeh](https://youtu.be/yT3sY8VrOl0?si=xH-6m5qUx1SsRopn)
 
 ### Quiz 3
-- [Google Drive Solution]((https://drive.google.com/file/d/1jqrX3ICV-E72HAmsqEFoCVCcmatjKR6B/view?usp=sharing))  
+- [Google Drive Solution](https://drive.google.com/file/d/1jqrX3ICV-E72HAmsqEFoCVCcmatjKR6B/view?usp=sharing)  
 - [YouTube Explanation – Yousef Odeh](https://youtu.be/0o426txM_5w)  
 
