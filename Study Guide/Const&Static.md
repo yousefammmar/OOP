@@ -18,8 +18,8 @@ We advise you to study in the following order:
    * [Quiz3_2025__2_sec9](https://drive.google.com/file/d/1WIJ15WQ4WUEtnfKnD0fJkgnTr_nbVUom/view?usp=sharing)
 
 5. Practice using previous Labs regarding **Consts and Statics**:
-   * [LAB6_2025_2](https://drive.google.com/file/d/1jOw1EUIIWPTaynx21TO4N_WHc1df_K1c/view?usp=sharing)
-   * [LAB6_2024_3](https://drive.google.com/file/d/1L-DkoYwl_EYdupbohYdDOH3LezfxyQVY/view?usp=sharing)
+   * [LAB6_2025_2](https://drive.google.com/drive/folders/1abN1BPmB8D6cg_eB9NZhUhkAU_fnQ9F3)
+   * [LAB6_2024_3](https://drive.google.com/drive/folders/1pRspDUgaWZqqMfHOKCaAETmhZbv37mUv)
    
 If you like to read from Notes, you can visit [this notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 20 to page 21** prepared by Dana AL-taher.
   
