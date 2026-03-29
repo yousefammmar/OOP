@@ -17,7 +17,7 @@ We advise you to study in the following order:
    * [Quiz3_2025__2_sec9](https://drive.google.com/file/d/1WIJ15WQ4WUEtnfKnD0fJkgnTr_nbVUom/view?usp=sharing)
    
 5. Practice using previous Labs regarding **Class Basics**:
-   * [LAB6_2025_2](https://drive.google.com/file/d/1eQWDnFQShtGDETtiZ9izeXxSWlzq_tPB/view?usp=sharing)
+   * [LAB7_2025_2](https://drive.google.com/file/d/1eQWDnFQShtGDETtiZ9izeXxSWlzq_tPB/view?usp=sharing)
    * [LAB7_2024_3](https://docs.google.com/document/d/1yqtYiFi8bnsqjq_mHsoBUiyugkKDNrSH/edit?usp=drive_link&ouid=103224987909757816586&rtpof=true&sd=true)
 
    
