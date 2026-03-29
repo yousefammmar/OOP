@@ -12,7 +12,8 @@ We advise you to study in the following order:
    * [Pointers_1](https://www.youtube.com/watch?v=Q6oSeZPjg0M&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=4),  [Pointers_2](https://www.youtube.com/watch?v=UsJVViySFQ4&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=5)
    
 3. Check out the code examples for *C++_Basics:*
-   *
+   
+   
    
 5. Practice using previous quizzes Regarding *C++_Basics:*
    * [Quiz1_2025](https://api.psutarchive.com/assets/a443282b-d427-4f0e-95c2-e1273d916aeb)
