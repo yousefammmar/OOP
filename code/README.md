@@ -12,7 +12,7 @@
 
 - **Separation:** [Seperation_header](Seperation/Seperation.h) | [Seperation_implementation](Seperation/Seperation.cpp) | [Seperation_Driver](Seperation/Driver.cpp)
   
-- **Objects Array:** [ArrayOfObjects_1](ArrayOfObjects/ObjectsArray1.cpp) | [ArrayOfObjects_2](ArrayOfObjects/ObjectsArray2.cpp)
+- **Array Of Objects:** [ArrayOfObjects_1](ArrayOfObjects/ObjectsArray1.cpp) | [ArrayOfObjects_2](ArrayOfObjects/ObjectsArray2.cpp)
 
 - **Constants:** [1](Constants_Statics/Constants1.cpp) | [2](Constants_Statics/Constants2.cpp)
 
