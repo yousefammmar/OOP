@@ -8,7 +8,7 @@
 
 - **Constructors:** [Constructors_1](Constructors_Destructor/Constructors1.cpp) | [Constructors_2](Constructors_Destructor/Constructors2.cpp) | [Constructors_3](Constructors_Destructor/Constructors3.cpp)
 
-- **Destructor:** [Destructor](Constructors_Destructor/Destructors.cpp)
+- **Destructor:** [Destructor](Constructors_Destructor/Destructor.cpp)
 
 - **Separation:** [Seperation_header](Seperation/Seperation.h) | [Seperation_implementation](Seperation/Seperation.cpp) | [Seperation_Driver](Seperation/Driver.cpp)
   
