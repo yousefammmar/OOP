@@ -16,5 +16,5 @@ Princess Sumaya University for Technology<br>
 - [**C++ Basics**](Study%20Guide/C++_Basics.md)  
 - [**Class Basics**](Study%20Guide/Class_Basics.md)
 - [**Consts and Statics**](Study%20Guide/Const&Static.md)
-
+- [**Composition**](Study%20Guide/Composition.md)
   ### Code Examples: ->[Code](code/README.md)<-
