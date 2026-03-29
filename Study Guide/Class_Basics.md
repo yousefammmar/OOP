@@ -13,7 +13,7 @@ We advise you to study in the following order:
    * [MoreOnConstructors](https://www.youtube.com/watch?v=P7wI9rA4Ps0&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=11)
 
 
-#### Watch [this video](https://www.youtube.com/watch?v=qhHN7Cx73rI&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=12) on seperation of files which you will need in the OOP and OOP Lab submissions and solutions prepared by ***Dr.Ibrahim Albluwi***.
+#### Watch [this video](https://www.youtube.com/watch?v=qhHN7Cx73rI&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=12) on seperation of files which you will need in the OOP and OOP Lab submissions and solutions, prepared by ***Dr.Ibrahim Albluwi***.
 
 3. Check out the code examples for **Class Basics**:
    * [Classes_1](code/Classes/Classes1.cpp) 
