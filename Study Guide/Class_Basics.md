@@ -18,7 +18,7 @@ We advise you to study in the following order:
 3. Check out the code examples for **Class Basics**:
    * [Classes_1](code/Classes/Classes1.cpp) 
    * [Classes_2](code/Classes/Classes2.cpp)
-   * [Constructor]
+   * [Constructor_1](code/Constructors_Destructor/Constructors1.cpp), [Constructor_2](code/Constructors_Destructor/Constructors2.cpp), [Constructor_3](code/Constructors_Destructor/Constructors3.cpp)
    * [Destructor](code/Constructors_Destructor/Destructor.cpp)
    
 4. Practice using previous quizzes regarding **Class Basics**:
