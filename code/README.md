@@ -8,11 +8,11 @@
 
 - **Constructors:** [Constructors_1](code/Constructors1.cpp) | [Constructors_2](code/Constructors2.cpp) | [Constructors_3](code/Constructors3.cpp)
 
-- **Destructors:** [1](code/Destructors.cpp)
+- **Destructors:** [Destructors](code/Destructors.cpp)
 
 - **Separation:** [Seperation_header](code/Seperation.h) | [Seperation_implementation](code/Seperation.cpp) | [Seperation_Driver](code/Driver.cpp)
 
-- **Member Functions:** [1](code/MemberFunctions.cpp)
+- **Member Functions:** [MemberFunctions](code/MemberFunctions.cpp)
 
 - **Objects Array:** [ArrayOfObjects_1](code/ObjectsArray1.cpp) | [ArrayOfObjects_2](code/ObjectsArray2.cpp)
 
