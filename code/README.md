@@ -1,20 +1,20 @@
 ## Code Examples On Each Subject
 
-- **Revision:** [Revision_1](Revision1.cpp) | [Revision_2](code/Revision2.cpp) | [Revision_3](code/Revision3.cpp) | [Revision_4](code/Revision4.cpp)
+- **Revision:** [Revision_1](Revision1.cpp) | [Revision_2](Revision2.cpp) | [Revision_3](Revision3.cpp) | [Revision_4](Revision4.cpp)
 
-- **Classes:** [Classes_1](code/Classes1.cpp) | [Classes_2](code/Classes2.cpp)
+- **Classes:** [Classes_1](Classes1.cpp) | [Classes_2](Classes2.cpp)
 
-- **Setters and Getters:** [SettersAndGetters_1](code/SettersandGetters1.cpp) | [SettersAndGetters_2](code/SettersandGetters2.cpp)
+- **Setters and Getters:** [SettersAndGetters_1](SettersandGetters1.cpp) | [SettersAndGetters_2](SettersandGetters2.cpp)
 
-- **Constructors:** [Constructors_1](code/Constructors1.cpp) | [Constructors_2](code/Constructors2.cpp) | [Constructors_3](code/Constructors3.cpp)
+- **Constructors:** [Constructors_1](Constructors1.cpp) | [Constructors_2](Constructors2.cpp) | [Constructors_3](Constructors3.cpp)
 
-- **Destructors:** [Destructors](code/Destructors.cpp)
+- **Destructors:** [Destructors](Destructors.cpp)
 
-- **Separation:** [Seperation_header](code/Seperation.h) | [Seperation_implementation](code/Seperation.cpp) | [Seperation_Driver](code/Driver.cpp)
+- **Separation:** [Seperation_header](Seperation.h) | [Seperation_implementation](Seperation.cpp) | [Seperation_Driver](Driver.cpp)
 
-- **Member Functions:** [MemberFunctions](code/MemberFunctions.cpp)
+- **Member Functions:** [MemberFunctions](MemberFunctions.cpp)
 
-- **Objects Array:** [ArrayOfObjects_1](code/ObjectsArray1.cpp) | [ArrayOfObjects_2](code/ObjectsArray2.cpp)
+- **Objects Array:** [ArrayOfObjects_1](ObjectsArray1.cpp) | [ArrayOfObjects_2](ObjectsArray2.cpp)
 
-- **Constants:** [1](code/Constants1.cpp) | [2](code/Constants2.cpp)
+- **Constants:** [1](Constants1.cpp) | [2](Constants2.cpp)
 
