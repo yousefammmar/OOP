@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/*
+
 void sum(int arr[], int size)
 {
 	int s = 0;
@@ -12,24 +12,23 @@ void sum(int arr[], int size)
 	}
 
 	cout <<"The sum is "<< s << endl;
-}*/
+}
 
 
-/*
 void modify(int arr[])
 {
 	arr[0]=-1;
 }
-*/
 
-/*
+
+
 void myFunction1(int &x)
 {
 	x = 10;
 }
-*/
 
-/*
+
+
 void myFunction2(int *x, int size)
 {
 	for (int i = 0; i < size; i++)
@@ -37,9 +36,9 @@ void myFunction2(int *x, int size)
 		cout << x[i] << endl;
 	}
 }
-*/
 
-/*int main()
+
+int main()
 {
 	/*int grades[4];
 	grades[0] = 2;
@@ -155,7 +154,7 @@ void myFunction2(int *x, int size)
 	}
 	*/
 
-/*
+	/*
 	char arr16[] = "PSUT";
 	char *p = arr16;
 
@@ -168,4 +167,4 @@ void myFunction2(int *x, int size)
 	p+=2;
 	cout << *p << endl;
 	*/
-//}
+}
