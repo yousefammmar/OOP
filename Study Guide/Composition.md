@@ -16,5 +16,10 @@ We advise you to study in the following order:
    * [Quiz3_2025__2_sec5](https://drive.google.com/file/d/1WE4W7D5-Aj9LMWakdjekzqrcy9SC3OOZ/view?usp=sharing)
    * [Quiz3_2025__2_sec9](https://drive.google.com/file/d/1WIJ15WQ4WUEtnfKnD0fJkgnTr_nbVUom/view?usp=sharing)
    
+5. Practice using previous Labs regarding **Class Basics**:
+   * [LAB6_2025_2](https://drive.google.com/file/d/1eQWDnFQShtGDETtiZ9izeXxSWlzq_tPB/view?usp=sharing)
+   * [LAB7_2024_3](https://docs.google.com/document/d/1yqtYiFi8bnsqjq_mHsoBUiyugkKDNrSH/edit?usp=drive_link&ouid=103224987909757816586&rtpof=true&sd=true)
+
+   
 If you like to read from Notes, you can visit [this notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 23 to page 25** prepared by Dana AL-taher.
   
