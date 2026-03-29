@@ -14,5 +14,5 @@
   
 - **Array Of Objects:** [ArrayOfObjects_1](ArrayOfObjects/ObjectsArray1.cpp) | [ArrayOfObjects_2](ArrayOfObjects/ObjectsArray2.cpp)
 
-- **Constants:** [1](Constants_Statics/Constants1.cpp) | [2](Constants_Statics/Constants2.cpp)
+- **Constants:** [Constants_1](Constants_Statics/Constants1.cpp) | [Constants_2](Constants_Statics/Constants2.cpp)
 
