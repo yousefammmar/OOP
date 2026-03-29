@@ -5,7 +5,7 @@ We advise you to study in the following order:
    ->[Constant and static](https://drive.google.com/drive/folders/1fTKKSbcEAyym_ivfNNB-kxm5-PWHSjSm)<- 
 
 3. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
-   * [Constants](www.youtube.com/watch?v=Y1E4j-qPYG0&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=16)
+   * [Constants](https://www.youtube.com/watch?v=Y1E4j-qPYG0&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=16)
    * [Statics](https://www.youtube.com/watch?v=gVIuCrbm-2Q&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=17)
    * [MoreOnStatic](https://www.youtube.com/watch?v=pKllmpeIF-0&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=18)
    
