@@ -16,9 +16,8 @@ We advise you to study in the following order:
    * [ThisPointer](../code/DMA/thisPointercpp)
 
 5. Practice using previous quizzes regarding **Consts and Statics**:
-   * [Quiz3_2025__2_sec4](https://drive.google.com/file/d/1QdoB_vrYq9rr2SLdlTMS3ZZhRKTPK3Ub/view?usp=sharing)
-   * [Quiz3_2025__2_sec5](https://drive.google.com/file/d/1WE4W7D5-Aj9LMWakdjekzqrcy9SC3OOZ/view?usp=sharing)
-   * [Quiz3_2025__2_sec9](https://drive.google.com/file/d/1WIJ15WQ4WUEtnfKnD0fJkgnTr_nbVUom/view?usp=sharing)
+   * [Quiz4_2025__2_sec9](https://drive.google.com/file/d/1__ecGnIp7egm5MZOFnkAgsvKFu_yQVIh/view?usp=sharing)
+   * [Quiz2_2024__2_sec4](https://drive.google.com/file/d/10yn8UZpftRJMLmgJ2-8xnbGABK1d9wlY/view?usp=sharing)
    * 
 6. Practice using previous Labs regarding **Dynamic Memory Allocation**:
    * [LAB8_2025_2](https://drive.google.com/drive/folders/1Eq9csSPMNmwUiNdyLhsF5PyRdmm9h6sh)
