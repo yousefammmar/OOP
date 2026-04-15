@@ -8,7 +8,7 @@ Princess Sumaya University for Technology<br>
 - [codeExamples-by Dr.Samer Al-Sawalha](code/README.md)
 - [recordedLectures-by Dr.Ibrahim Al-Bluwi](https://www.youtube.com/playlist?list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV)  
 - [handWrittenNotes-by Dana Al-Taher](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e)
-- [Past Quizzes](https://drive.google.com/drive/folders/1o8Ae0gTwBTSMBRKtLVBGLt8qNM6WjupF)  
+- [pastQuizzes](https://drive.google.com/drive/folders/1o8Ae0gTwBTSMBRKtLVBGLt8qNM6WjupF)  
 - [quizSolutions & explanations](https://github.com/yousefammmar/OOP/blob/main/Explanations.md)
 - [pastExams](https://psutarchive.com/courses/11206?tab=exam)  
 - [pastLabs](https://drive.google.com/drive/folders/1pglAkv7Seib3L2HYHUvhogdKQ3L5GWRI?usp=sharing)  
