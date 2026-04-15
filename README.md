@@ -4,8 +4,8 @@ Princess Sumaya University for Technology<br>
 # Course Material
 
 ## Quick Links-ExternalPages
-- [Recorded Lectures](https://www.youtube.com/playlist?list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV)  
-- [Slides](https://drive.google.com/drive/folders/1fTKKSbcEAyym_ivfNNB-kxm5-PWHSjSm)  
+- [Recorded Lectures-by Dr. Ibrahim Al-Bluwi](https://www.youtube.com/playlist?list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV)  
+- [Slides-by Ms.Ayat Droos](https://drive.google.com/drive/folders/1fTKKSbcEAyym_ivfNNB-kxm5-PWHSjSm)  
 - [Past Exams](https://psutarchive.com/courses/11206?tab=exam)  
 - [Past Quizzes](https://drive.google.com/drive/folders/1o8Ae0gTwBTSMBRKtLVBGLt8qNM6WjupF)  
 - [Past Labs](https://drive.google.com/drive/folders/1pglAkv7Seib3L2HYHUvhogdKQ3L5GWRI?usp=sharing)  
