@@ -1,4 +1,4 @@
-# Const And Static Variables,Functions, Objects
+# Const And Static Variables, Functions, Objects
 We advise you to study in the following order:
 
 1. Begin with studying this file thoroughly prepared by ***Ms.Ayat Droos***:
