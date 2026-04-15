@@ -4,14 +4,14 @@ Princess Sumaya University for Technology<br>
 # Course Material
 
 ## Quick Links-ExternalPages
-- [Recorded Lectures-by Dr.Ibrahim Al-Bluwi](https://www.youtube.com/playlist?list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV)  
 - [Slides-by Ms.Ayat Droos](https://drive.google.com/drive/folders/1fTKKSbcEAyym_ivfNNB-kxm5-PWHSjSm)  
-- [Past Exams](https://psutarchive.com/courses/11206?tab=exam)  
-- [Past Quizzes](https://drive.google.com/drive/folders/1o8Ae0gTwBTSMBRKtLVBGLt8qNM6WjupF)  
-- [Past Labs](https://drive.google.com/drive/folders/1pglAkv7Seib3L2HYHUvhogdKQ3L5GWRI?usp=sharing)  
-- [Quiz Solutions & Explanations](https://github.com/yousefammmar/OOP/blob/main/Explanations.md)
-- [handWrittenNotes-by Dana Al-Taher](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e)
 - [codeExamples-by Dr.Samer Al-Sawalha](code/README.md)
+- [Recorded Lectures-by Dr.Ibrahim Al-Bluwi](https://www.youtube.com/playlist?list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV)  
+- [handWrittenNotes-by Dana Al-Taher](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e)
+- [Past Quizzes](https://drive.google.com/drive/folders/1o8Ae0gTwBTSMBRKtLVBGLt8qNM6WjupF)  
+- [Quiz Solutions & Explanations](https://github.com/yousefammmar/OOP/blob/main/Explanations.md)
+- [Past Exams](https://psutarchive.com/courses/11206?tab=exam)  
+- [Past Labs](https://drive.google.com/drive/folders/1pglAkv7Seib3L2HYHUvhogdKQ3L5GWRI?usp=sharing)  
   
 
 ## Navigation:
