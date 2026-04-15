@@ -17,3 +17,4 @@
 - **Constants:** [Constants_1](Constants_Statics/Constants1.cpp) | [Constants_2](Constants_Statics/Constants2.cpp)
 
 - **Composition:** [Composition_1](Composition/Composition1.cpp) | [Composition_2](Composition/Composition2.cpp)
+- **Dynamic Memory Allocation:** [DMA](DMA/DMA1.cpp) | [thisPointer](DMA/thisPointer.cpp)
