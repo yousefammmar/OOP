@@ -17,4 +17,5 @@ Princess Sumaya University for Technology<br>
 - [**Class Basics**](Study%20Guide/Class_Basics.md)
 - [**Consts and Statics**](Study%20Guide/Const&Static.md)
 - [**Composition**](Study%20Guide/Composition.md)
+- [**Dynamic Memory Allocation**](Study%20Guide/DMSA.md)
   ### Code Examples: ->[Code](code/README.md)<-
