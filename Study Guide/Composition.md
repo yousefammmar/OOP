@@ -10,9 +10,8 @@ We advise you to study in the following order:
    
 4. Check out the code examples for **Composition**:
    
-5. Practice using previous quizzes regarding **Composition**:
    
-6. Practice using previous Labs regarding **Composition**:
+5. Practice using previous Labs regarding **Composition**:
    * [LAB7_2025_2](https://drive.google.com/drive/folders/1LS9H3Xm3MKneKbHpgm6plrB01UmB9Gto)
    * [LAB7_2024_3](https://drive.google.com/drive/folders/1yzkdoOIAj_EyuuoxgSOQMWkkeKp1s-Ra)
 
