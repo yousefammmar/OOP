@@ -14,8 +14,9 @@ We advise you to study in the following order:
 4. Check out the code examples for **Dynamic Memory Allocation**:
     * [DMA](../code/DMA/DMA1.cpp) 
    * [ThisPointer](../code/DMA/thisPointercpp)
-   
-5. Practice using previous Labs regarding **Dynamic Memory Allocation**:
+
+
+6. Practice using previous Labs regarding **Dynamic Memory Allocation**:
    * [LAB8_2025_2](https://drive.google.com/drive/folders/1Eq9csSPMNmwUiNdyLhsF5PyRdmm9h6sh)
    * [LAB8_2024_3](https://drive.google.com/drive/folders/1lmFstieBU0EcoHo8vMXrH3Motzo9afyr)
 
