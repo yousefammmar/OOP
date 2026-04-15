@@ -5,7 +5,7 @@ We advise you to study in the following order:
    ->[DMA](https://drive.google.com/file/d/1VmrsVVyAbK9coAvQk1Z7851ZSasrsVz2/view?usp=sharing)<- 
 
 3. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
-   * [Cascading_DMAintroduction](https://www.youtube.com/watch?v=k9kYLYlW04Q&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=21)
+   * [Cascading_introductionToDMA](https://www.youtube.com/watch?v=k9kYLYlW04Q&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=21)
    * [DMA_1](https://www.youtube.com/watch?v=keo3Km8ps70&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=22)
    * [DMA_2](https://www.youtube.com/watch?v=kTMD8XaZrOU&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=23)
    * [DMA_3](https://www.youtube.com/watch?v=919l_06xRUE&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=24)
