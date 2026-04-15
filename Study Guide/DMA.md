@@ -20,5 +20,5 @@ We advise you to study in the following order:
    * [LAB7_2024_3](https://drive.google.com/drive/folders/1UckbIq4wS2UJtbe7NhEfmuY7eGN7Mg2d)
 
    
-If you like to read from Notes, you can visit [this notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 23 to page 25** prepared by Dana AL-taher.
+If you like to read from Notes, you can visit [this notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 26 to page 31** prepared by Dana AL-taher.
   
