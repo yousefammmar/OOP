@@ -12,8 +12,8 @@ We advise you to study in the following order:
    * [DMA_4](https://www.youtube.com/watch?v=ZeWVv0pQIEs&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=25)
    
 4. Check out the code examples for **Composition**:
-    * [Composition_1](../code/Composition/Composition1.cpp) 
-   * [Composition_2](../code/Composition/Composition2.cpp)
+    * [DMA](../code/DMA/DMA1.cpp) 
+   * [ThisPointer](../code/DMA/thisPointercpp))
    
 5. Practice using previous Labs regarding **Composition**:
    * [LAB7_2025_2](https://drive.google.com/drive/folders/1LS9H3Xm3MKneKbHpgm6plrB01UmB9Gto)
