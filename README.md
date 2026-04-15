@@ -10,6 +10,7 @@ Princess Sumaya University for Technology<br>
 - [Past Quizzes](https://drive.google.com/drive/folders/1o8Ae0gTwBTSMBRKtLVBGLt8qNM6WjupF)  
 - [Past Labs](https://drive.google.com/drive/folders/1pglAkv7Seib3L2HYHUvhogdKQ3L5GWRI?usp=sharing)  
 - [Quiz Solutions & Explanations](https://github.com/yousefammmar/OOP/blob/main/Explanations.md)
+- [HandWrittenNotes-by Dana Al-Taher](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e)
   
 
 ## Navigation:
