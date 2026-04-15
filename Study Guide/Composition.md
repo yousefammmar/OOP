@@ -14,7 +14,7 @@ We advise you to study in the following order:
    
 5. Practice using previous Labs regarding **Composition**:
    * [LAB7_2025_2](https://drive.google.com/drive/folders/1LS9H3Xm3MKneKbHpgm6plrB01UmB9Gto)
-   * [LAB7_2024_3](https://drive.google.com/drive/folders/1yzkdoOIAj_EyuuoxgSOQMWkkeKp1s-Ra)
+   * [LAB7_2024_3](https://drive.google.com/drive/folders/1UckbIq4wS2UJtbe7NhEfmuY7eGN7Mg2d)
 
    
 If you like to read from Notes, you can visit [this notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 23 to page 25** prepared by Dana AL-taher.
