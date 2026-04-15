@@ -13,9 +13,9 @@ Princess Sumaya University for Technology<br>
   
 
 ## Navigation:
-- [**C++ Basics**](Study%20Guide/C++_Basics.md)  
-- [**Class Basics**](Study%20Guide/Class_Basics.md)
-- [**Consts and Statics**](Study%20Guide/Const&Static.md)
-- [**Composition**](Study%20Guide/Composition.md)
-- [**Dynamic Memory Allocation (DMA)**](Study%20Guide/DMA.md)
+1. [**C++ Basics**](Study%20Guide/C++_Basics.md)  
+2. [**Class Basics**](Study%20Guide/Class_Basics.md)
+3. [**Consts and Statics**](Study%20Guide/Const&Static.md)
+4. [**Composition**](Study%20Guide/Composition.md)
+5. [**Dynamic Memory Allocation (DMA)**](Study%20Guide/DMA.md)
   ### Code Examples: ->[Code](code/README.md)<-
