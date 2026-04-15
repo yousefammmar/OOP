@@ -10,7 +10,7 @@ We advise you to study in the following order:
    
 4. Check out the code examples for **Composition**:
     * [Composition_1](../code/Composition/Composition1.cpp) 
-   * [Composition_2](./code/Composition/Composition2.cpp))
+   * [Composition_2](./code/Composition/Composition2.cpp)
    
 5. Practice using previous Labs regarding **Composition**:
    * [LAB7_2025_2](https://drive.google.com/drive/folders/1LS9H3Xm3MKneKbHpgm6plrB01UmB9Gto)
