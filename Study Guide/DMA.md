@@ -11,11 +11,11 @@ We advise you to study in the following order:
    * [DMA_3](https://www.youtube.com/watch?v=919l_06xRUE&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=24)
    * [DMA_4](https://www.youtube.com/watch?v=ZeWVv0pQIEs&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=25)
    
-4. Check out the code examples for **Composition**:
+4. Check out the code examples for **Dynamic Memory Allocation**:
     * [DMA](../code/DMA/DMA1.cpp) 
-   * [ThisPointer](../code/DMA/thisPointercpp))
+   * [ThisPointer](../code/DMA/thisPointercpp)
    
-5. Practice using previous Labs regarding **Composition**:
+5. Practice using previous Labs regarding **Dynamic Memory Allocation**:
    * [LAB7_2025_2](https://drive.google.com/drive/folders/1LS9H3Xm3MKneKbHpgm6plrB01UmB9Gto)
    * [LAB7_2024_3](https://drive.google.com/drive/folders/1UckbIq4wS2UJtbe7NhEfmuY7eGN7Mg2d)
 
