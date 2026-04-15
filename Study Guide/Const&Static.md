@@ -10,8 +10,8 @@ We advise you to study in the following order:
    * [MoreOnStatic](https://www.youtube.com/watch?v=pKllmpeIF-0&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=18)
    
 4. Check out the code examples for **Consts and Statics**:
-   * [Constants_1](code/Constants_Statics/Constants1.cpp) 
-   * [Constants_2](code/Constants_Statics/Constants2.cpp)
+   * [Constants_1](../code/Constants_Statics/Constants1.cpp) 
+   * [Constants_2](../code/Constants_Statics/Constants2.cpp)
 4. Practice using previous quizzes regarding **Consts and Statics**:
    * [Quiz3_2025__2_sec4](https://drive.google.com/file/d/1QdoB_vrYq9rr2SLdlTMS3ZZhRKTPK3Ub/view?usp=sharing)
    * [Quiz3_2025__2_sec5](https://drive.google.com/file/d/1WE4W7D5-Aj9LMWakdjekzqrcy9SC3OOZ/view?usp=sharing)
