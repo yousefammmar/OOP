@@ -13,7 +13,7 @@ We advise you to study in the following order:
    
 4. Check out the code examples for **Dynamic Memory Allocation**:
     * [DMA](../code/DMA/DMA1.cpp) 
-   * [hisPointer](../code/DMA/thisPointercpp)
+   * [thisPointer](../code/DMA/thisPointercpp)
 
 5. Practice using previous quizzes regarding **Consts and Statics**:
    * [Quiz4_2025__2_sec9](https://drive.google.com/file/d/1__ecGnIp7egm5MZOFnkAgsvKFu_yQVIh/view?usp=sharing)
