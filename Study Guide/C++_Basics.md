@@ -11,7 +11,7 @@ We advise you to study in the following order:
    * [Arrays.](https://www.youtube.com/watch?v=B-yZm2wNW3k&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=3)
    * [Pointers_1](https://www.youtube.com/watch?v=Q6oSeZPjg0M&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=4),  [Pointers_2](https://www.youtube.com/watch?v=UsJVViySFQ4&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=5)
    
-3. Check out the code examples for **C++_Basics:**
+3. Check out the code examples for **C++_Basics** by ***Dr.Samer Alsawalha***:
    * [Revision_1](../code/Revision/Revision1.cpp) 
    * [Revision_2](../code/Revision/Revision2.cpp) 
    * [Revision_3](../code/Revision/Revision3.cpp) 
