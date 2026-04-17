@@ -11,7 +11,7 @@ We advise you to study in the following order:
    * [DMA_3](https://www.youtube.com/watch?v=919l_06xRUE&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=24)
    * [DMA_4](https://www.youtube.com/watch?v=ZeWVv0pQIEs&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=25)
    
-4. Check out the code examples for **Dynamic Memory Allocation**:
+4. Check out the code examples for **Dynamic Memory Allocation** by ***Dr.Samer Alsawalha*** :
     * [DMA](../code/DMA/DMA1.cpp) 
    * [thisPointer](../code/DMA/thisPointercpp)
 
