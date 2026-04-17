@@ -9,7 +9,7 @@ We advise you to study in the following order:
    * [Statics](https://www.youtube.com/watch?v=gVIuCrbm-2Q&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=17)
    * [MoreOnStatic](https://www.youtube.com/watch?v=pKllmpeIF-0&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=18)
    
-4. Check out the code examples for **Consts and Statics**:
+4. Check out the code examples for **Consts and Statics** by ***Dr.Samer Alsawalha***:
    * [Constants_1](../code/Constants_Statics/Constants1.cpp) 
    * [Constants_2](../code/Constants_Statics/Constants2.cpp)
 4. Practice using previous quizzes regarding **Consts and Statics**:
