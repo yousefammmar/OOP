@@ -8,7 +8,7 @@ We advise you to study in the following order:
    * [Composition_1](https://www.youtube.com/watch?v=eTWn5UJmEu8&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=19)
    * [Composition_2](https://www.youtube.com/watch?v=ifo3aDkOSW8&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=20)
    
-4. Check out the code examples for **Composition**:
+4. Check out the code examples for **Composition** by ***Dr.Samer Alsawalha***:
     * [Composition_1](../code/Composition/Composition1.cpp) 
    * [Composition_2](../code/Composition/Composition2.cpp)
    
