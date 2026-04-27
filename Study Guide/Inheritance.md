@@ -21,8 +21,8 @@ We advise you to study in the following order:
    * [Quiz4_2025__2_sec9](https://drive.google.com/file/d/1__ecGnIp7egm5MZOFnkAgsvKFu_yQVIh/view?usp=sharing)
    * [Quiz2_2024__2_sec4](https://drive.google.com/file/d/10yn8UZpftRJMLmgJ2-8xnbGABK1d9wlY/view?usp=sharing)
 6. Practice using previous Labs regarding **Inheritance**:
-   * [LAB8_2025_2](https://drive.google.com/drive/folders/1Eq9csSPMNmwUiNdyLhsF5PyRdmm9h6sh)
-   * [LAB8_2024_3](https://drive.google.com/drive/folders/1lmFstieBU0EcoHo8vMXrH3Motzo9afyr)
+   * [LAB9_2025_2](https://drive.google.com/drive/folders/1gTZNB-3pngUKhZGY1_HUg_sQXePFa1UE)
+   * [LAB9_2024_3](https://drive.google.com/drive/folders/1OLRMuujhVq-t4Gb_kNSvfIwXM751paMK)
 
    
 If you like to read from Notes, you can visit [this notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 26 to page 31** prepared by Dana AL-taher.
