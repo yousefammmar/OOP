@@ -13,8 +13,8 @@ We advise you to study in the following order:
     * [Inheritance_1](../code/Inheritance/Inheritance1.cpp)
 
 5. Practice using previous quizzes regarding **Inheritance**:
-   * [Quiz4_2025__2_sec9](https://drive.google.com/file/d/1__ecGnIp7egm5MZOFnkAgsvKFu_yQVIh/view?usp=sharing)
-   * [Quiz2_2024__2_sec4](https://drive.google.com/file/d/10yn8UZpftRJMLmgJ2-8xnbGABK1d9wlY/view?usp=sharing)
+   * [Quiz5_2025__2_sec9](https://drive.google.com/file/d/1Pb0rmA4DEgxvTSGP2b8OoA7Eoh6nzlVS/view?usp=sharing)
+   * [Quiz3_2024__2_sec4](https://drive.google.com/file/d/1mhD2TGgx32Fq-nay8YGO08GglMUzQJXs/view?usp=sharing)
 6. Practice using previous Labs regarding **Inheritance**:
    * [LAB9_2025_2](https://drive.google.com/drive/folders/1gTZNB-3pngUKhZGY1_HUg_sQXePFa1UE)
    * [LAB9_2024_3](https://drive.google.com/drive/folders/1OLRMuujhVq-t4Gb_kNSvfIwXM751paMK)
