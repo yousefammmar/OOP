@@ -5,8 +5,8 @@ We advise you to study in the following order:
    ->[Inheritance](https://drive.google.com/file/d/1zpFSmyaD4dHqjD8E82mgQ_9zZpUcEoUW/view?usp=sharing)<- 
 
 3. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
-   * [InheritanceIntroduction](https://www.youtube.com/watch?v=eniwNVGZvCw&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=27)
-   * [InheritanceOverriding](https://www.youtube.com/watch?v=l68U8BDaoSs&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=28)
+   * [inheritanceIntroduction](https://www.youtube.com/watch?v=eniwNVGZvCw&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=27)
+   * [inheritanceOverriding](https://www.youtube.com/watch?v=l68U8BDaoSs&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=28)
    * [typesOfInheritance](https://www.youtube.com/watch?v=bLFKe_7SJCw&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=30)
    
 4. Check out the code examples for **Inheritance** by ***Dr.Samer Alsawalha*** :
