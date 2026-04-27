@@ -17,9 +17,9 @@ We advise you to study in the following order:
    * [Quiz6_2025__2_sec9](https://drive.google.com/file/d/1lIg08Pmw7E9W6uJ2HAF45aRRvTb1ZZgA/view?usp=sharing)
    * [Quiz4_2024__2_sec4](https://drive.google.com/file/d/1BFn2yVGglOZm6AWlOL4pCNRNBsDG4KcX/view?usp=sharing)
 6. Practice using previous Labs regarding **Polymorphism**:
-   * [LAB9_2025_2](https://drive.google.com/drive/folders/1gTZNB-3pngUKhZGY1_HUg_sQXePFa1UE)
-   * [LAB9_2024_3](https://drive.google.com/drive/folders/1OLRMuujhVq-t4Gb_kNSvfIwXM751paMK)
+   * [LAB10_2025_2](https://drive.google.com/drive/folders/1AEOcZpYVnJneD7Bd1I-Cs--1s_M5FjXx)
+   * [LAB10_2024_3](https://drive.google.com/drive/folders/16eQkFFDHYFMeqo4NdEQtyiPzb6O2UkMR)
 
    
-If you like to read from Notes, you can visit [this notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 35 to page 40** prepared by Dana AL-taher.
+If you like to read from Notes, you can visit [this notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 41 to page 43** prepared by Dana AL-taher.
   
