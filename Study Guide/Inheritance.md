@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c810dce-f14e-42f9-9375-c0332a5121f8" /># Inheritance ~ 6
+# Inheritance ~ 6
 We advise you to study in the following order:
 
 1. Begin with studying this file thoroughly prepared by ***Ms.Ayat Droos***:
