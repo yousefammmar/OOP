@@ -2,7 +2,7 @@
 We advise you to study in the following order:
 
 1. Begin with studying this file thoroughly prepared by ***Ms.Ayat Droos***:
-   ->[DMA](https://drive.google.com/file/d/1VmrsVVyAbK9coAvQk1Z7851ZSasrsVz2/view?usp=sharing)<- 
+   ->[Inheritance](https://drive.google.com/file/d/1zpFSmyaD4dHqjD8E82mgQ_9zZpUcEoUW/view?usp=sharing)<- 
 
 3. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
    * [Cascading_introductionToDMA](https://www.youtube.com/watch?v=k9kYLYlW04Q&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=21)
