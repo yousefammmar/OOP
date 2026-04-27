@@ -5,11 +5,9 @@ We advise you to study in the following order:
    ->[Inheritance](https://drive.google.com/file/d/1zpFSmyaD4dHqjD8E82mgQ_9zZpUcEoUW/view?usp=sharing)<- 
 
 3. In case you couldn't understand from the files only, You can visit these youtube videos for a more detailed explaination prepared by ***Dr.Ibrahim Albluwi***:
-   * [Cascading_introductionToDMA](https://www.youtube.com/watch?v=k9kYLYlW04Q&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=21)
-   * [DMA_1](https://www.youtube.com/watch?v=keo3Km8ps70&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=22)
-   * [DMA_2](https://www.youtube.com/watch?v=kTMD8XaZrOU&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=23)
-   * [DMA_3](https://www.youtube.com/watch?v=919l_06xRUE&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=24)
-   * [DMA_4](https://www.youtube.com/watch?v=ZeWVv0pQIEs&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=25)
+   * [InheritanceIntroduction](https://www.youtube.com/watch?v=eniwNVGZvCw&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=27)
+   * [InheritanceOverriding](https://www.youtube.com/watch?v=l68U8BDaoSs&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=28)
+   * [typesOfInheritance](https://www.youtube.com/watch?v=bLFKe_7SJCw&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=30)
    
 4. Check out the code examples for **Inheritance** by ***Dr.Samer Alsawalha*** :
     * [Inheritance_1](../code/Inheritance/Inheritance1.cpp)
