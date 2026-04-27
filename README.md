@@ -20,4 +20,7 @@ Princess Sumaya University for Technology<br>
 3. [**Consts and Statics**](Study%20Guide/Const&Static.md)
 4. [**Composition**](Study%20Guide/Composition.md)
 5. [**Dynamic Memory Allocation (DMA)**](Study%20Guide/DMA.md)
+6. [**Inheritance**](Study%20Guide/Inheritance.md)
+7. [**Polymorphism**](Study%20Guide/Polymorphism.md)
+8. [**OperatorOverloading**](Study%20Guide/OperatorOverloading.md)
   ### Code Examples: ->[Code](code/README.md)<-
