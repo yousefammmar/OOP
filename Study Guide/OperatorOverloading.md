@@ -10,16 +10,7 @@ We advise you to study in the following order:
    * [operatorOverloadingFinale](https://www.youtube.com/watch?v=v4I_PEWZag0&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=36)
    
 4. Check out the code examples for **OperatorOverloading** by ***Dr.Samer Alsawalha*** :
-    * [Polymorphism_1](../code/Polymorphism/Polymorphism.cpp)
-
-5. Practice using previous quizzes regarding **OperatorOverloading**:
-   * [Quiz6_2025__2_sec4](https://drive.google.com/file/d/1ZNhNQ6LSRm0cdRRC8xcfdkm6-Oe236MU/view?usp=sharing)
-   * [Quiz6_2025__2_sec9](https://drive.google.com/file/d/1lIg08Pmw7E9W6uJ2HAF45aRRvTb1ZZgA/view?usp=sharing)
-   * [Quiz4_2024__2_sec4](https://drive.google.com/file/d/1BFn2yVGglOZm6AWlOL4pCNRNBsDG4KcX/view?usp=sharing)
-6. Practice using previous Labs regarding **OperatorOverloading**:
-   * [LAB10_2025_2](https://drive.google.com/drive/folders/1AEOcZpYVnJneD7Bd1I-Cs--1s_M5FjXx)
-   * [LAB10_2024_3](https://drive.google.com/drive/folders/16eQkFFDHYFMeqo4NdEQtyiPzb6O2UkMR)
-
+    * [operatorOverloading](../code/Polymorphism/Polymorphism.cpp)
    
-If you like to read from Notes, you can visit [this notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 41 to page 43** prepared by Dana AL-taher.
+If you like to read from Notes, you can visit [this notebook](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) from **page 44 to page 49** prepared by Dana AL-taher.
   
