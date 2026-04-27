@@ -12,7 +12,7 @@ We advise you to study in the following order:
    * [DMA_4](https://www.youtube.com/watch?v=ZeWVv0pQIEs&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=25)
    
 4. Check out the code examples for **Inheritance** by ***Dr.Samer Alsawalha*** :
-    * [Inheritance_1](../code/DMA/Inheritance1.cpp)
+    * [Inheritance_1](../code/Inheritance/Inheritance1.cpp)
 
 5. Practice using previous quizzes regarding **Inheritance**:
    * [Quiz4_2025__2_sec9](https://drive.google.com/file/d/1__ecGnIp7egm5MZOFnkAgsvKFu_yQVIh/view?usp=sharing)
