@@ -19,4 +19,3 @@ Princess Sumaya University for Technology<br>
 6. [**Inheritance**](Study%20Guide/Inheritance.md)
 7. [**Polymorphism**](Study%20Guide/Polymorphism.md)
 8. [**OperatorOverloading**](Study%20Guide/OperatorOverloading.md)
-  ### Code Examples: ->[Code](code/README.md)<-
